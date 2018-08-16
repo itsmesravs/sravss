@@ -6,6 +6,6 @@ while(n>0);
    sum=sum+digit**3
    n=n//10
 if(temp=sum):
-   print("armstrong")
+   print("yes")
 else:
-   print("not an armstrong")
+   print("no")
