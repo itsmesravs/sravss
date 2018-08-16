@@ -1,5 +1,5 @@
-a=int(raw_input())
-b=int(raw_input())
+a=int(150)
+b=int(160)
 for i in range(a,b):
    sum=0
    temp=n
