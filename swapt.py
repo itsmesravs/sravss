@@ -1,5 +1,5 @@
-x=int(37)
-y=int(73)
+x=int(input())
+y=int(input())
 t=x
 x=y
 y=t
